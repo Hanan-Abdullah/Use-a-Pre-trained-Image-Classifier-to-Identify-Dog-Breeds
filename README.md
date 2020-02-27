@@ -2,4 +2,4 @@
 
 This project is part of Udacity's 'AI Programming with Python' Nanodegree.
 
-In this project I used a created image classifier to identify dog breeds. 
+I used a created image classifier to identify dog breeds. 
